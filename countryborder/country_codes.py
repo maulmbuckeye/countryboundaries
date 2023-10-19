@@ -11,7 +11,7 @@ PACIFIC_ISLANDS = [
     'PYF',  # French Polynesia
     'SGS',  # South Georgia and South Sandwich Islands
     'TON',  # Tonga
-    'TUV'   # Tuvalu
+    'TUV',  # Tuvalu
     'VUT',  # Vanuatu
     'WSM',  # Samoa
 ]
@@ -25,6 +25,8 @@ CARB = [
     'ABW',  # Aruba
     'AIA',  # Anguilla
     'BHS',  # The Bahamas
+    'BRB',  # Barbados
+    'DMA',  # Dominica
     'GRD',  # Grenada
     'JAM',  # Jamaica
     'PRI',  # Puerto Rico
@@ -84,7 +86,6 @@ MAIN = [
     'UMI',  # United States Minor Outlying Islands
     'VCT',  # Saint Vincent and the Grenadines
     'WLF',  # Wallis and Futuna
-
 ]
 
 EXCLUDE = MAIN + PACIFIC_ISLANDS + SAR + INDIAN_OCEAN + CARB + TINY_EUROPE + GREATER_BRITAIN
