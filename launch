@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+jupyter notebook notebooks/countryborder.ipynb
